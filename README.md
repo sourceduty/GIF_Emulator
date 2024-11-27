@@ -8,9 +8,6 @@
 Once the images are generated, the GPT seamlessly combines them into a single animated GIF using Python, resulting in a visually engaging output that captures the spirit of the provided example. The finished GIF is made available for download, giving users a quick and efficient way to bring their creative ideas to life or to expand upon an existing concept. By blending advanced image generation and animation capabilities, the GIF Emulator simplifies the process of creating dynamic, custom GIFs.
 
 #
-![GIF Emulator](https://github.com/user-attachments/assets/8b6998de-c6bb-408e-97e1-b4f139ae495e)
-
-#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
